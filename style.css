@@ -1,0 +1,36 @@
+body{
+	background-color: #7B6080;
+}
+
+h1{
+	color: #F9D2FF;
+	font-weight: bold;
+	font-size: 90px;
+	margin: 0px;
+}
+
+h2{
+	color: white
+	font-weight:bold;
+	font-size: 40px;
+}
+
+p{
+	font-size: 20px;
+}
+
+img{
+	width: 500px;
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	right: 0;
+	margin-top: 25px;
+	margin-right: 100px;
+}
+
+.star{
+	color: yellow;
+	font-style: italic;
+	font-size: 15px;
+}
